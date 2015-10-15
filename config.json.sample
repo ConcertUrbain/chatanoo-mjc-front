@@ -1,0 +1,20 @@
+{
+  "SERVICE_URL": "http://core.aws.chatanoo.org",
+  "MEDIAS_CENTER_URL": "http://medias.aws.chatanoo.org/",
+  "MEDIAS_CENTER_INPUT_BUCKET": "chatanoo-medias-input",
+  "MEDIAS_CENTER_OUTPUT_BUCKET": "chatanoo-medias-output",
+  "MEDIAS_CENTER_COGNITO_POOL": "eu-west-1:b263aeab-02ae-4268-b338-95e7ea79e255",
+  "TITLE": "Espace de Bonneuil",
+  "QUERIES_PREFIX": "[Bonneuil]",
+  "IMAGE_ACCUEIL_URL": "P-b374faa3-9736-da56-5e82-c9339b6563b3",
+  "USER": "mazerte",
+  "PASS": "desperados",
+  "API_KEY": "3WUWr77hbTf6gaH48fnUj9yhp442vbeH",
+  "MAP_WIDTH": "1413",
+  "MAP_HEIGHT": "1088",
+  "MAP_LAT_TOP": "48.792177",
+  "MAP_LAT_BOTTOM": "48.761973",
+  "MAP_LON_TOP": "2.455499",
+  "MAP_LON_BOTTOM": "2.515795",
+  "CIRCLE_URL": "http://cdn.aws.chatanoo.org/mjc/nogent/divers/cercleRouge.png"
+}
